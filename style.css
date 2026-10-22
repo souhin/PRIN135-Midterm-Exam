@@ -20,8 +20,8 @@ h1, h2, h3 {
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.5;
-  background: #f2f2f2;
-  color: #222;
+  background: #f4f8f8;
+  color: #1a1a1a;
 }
 
 h1, h2, h3 {
@@ -40,7 +40,7 @@ section {
   width: 100%;
   height: 56px;
   z-index: 10;
-  background: #1e3a5f;
+  background: #0f4c5c;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
 }
 
@@ -80,7 +80,7 @@ section {
 }
 
 .nav-links a:hover {
-   background: #2e5a8a;
+   background: #1b7f8c;
 }
 
 /* ---------- Header ---------- */
@@ -152,12 +152,12 @@ margin: 0 auto;
 }
 
 .header-links a:hover {
-  color: #d6e2f0;
+  color: #d4ecef;
 }
 
 .profile {
   margin: 0;
-  color: #d6e2f0;
+  color: #d4ecef;
 }
 
 /* ---------- Wrapper & cards ---------- */
@@ -169,7 +169,7 @@ margin: 0 auto;
 
 .card {
   background: #fff;
-  border: 1px solid #ddd;
+  border: 1px solid #b7d9de;
   border-radius: 6px;
   padding: 25px;
   margin-bottom: 25px;
@@ -178,7 +178,7 @@ margin: 0 auto;
 .card h2 {
   margin-bottom: 15px;
   padding-bottom: 8px;
-  border-bottom: 2px solid #e8eef6;
+  border-bottom: 2px solid #e3f1f3;
   color: #1e3a5f;
 }
 
@@ -193,7 +193,7 @@ margin: 0 auto;
   display: inline-block;
   margin: 0 8px 10px 0;
   padding: 8px 16px;
-  background: #e8eef6;
+  background: #e3f1f3;
   border: 1px solid #c5d3e6;
   border-radius: 20px;
   color: #1e3a5f;
@@ -267,7 +267,7 @@ margin: 0 auto;
   width: 100%;
   margin-bottom: 15px;
   padding: 10px;
-  border: 1px solid #ccc;
+  border: 1px solid #b7d9de;
   border-radius: 4px;
   font: inherit;
 }
